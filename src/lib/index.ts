@@ -1,1 +1,1 @@
-export * from "./autoExecute";
+export * from "./autoExecuteAsyncFunction";
