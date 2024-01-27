@@ -1,0 +1,26 @@
+{
+  "name": "async",
+  "version": "0.0.1",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "./dist"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": "https://github.com/fernandobarrosd/async.git",
+  "author": {
+    "name": "Fernando de Barros",
+    "email": "fdebarros0910-2004@hotmail.com",
+    "url": "https://github.com/fernandobarrosd/async"
+  },
+  "homepage": "https://github.com/fernandobarrosd/async",
+  "license": "MIT",
+  "devDependencies": {
+    "@fernandobarrosd/eslint-config-typescript": "^1.0.2",
+    "eslint": "^8.56.0",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3"
+  }
+}
